@@ -1,0 +1,35 @@
+body{
+    padding-top: 70px;
+    font-family: 'Lato', sans-serif;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+main{
+    flex: 1;
+}
+
+h1, h2, h3, .navbar-brand{
+    font-family: 'Lora', serif;
+}
+
+hr{
+    border: none;
+    height: 2px;
+    background: #FFFFFF;
+}
+
+iframe{
+    height: 90vh;
+    width: 66vw;
+}
+
+.bg-garden{
+    background-color: #1B3322 !important;
+}
+
+#logo{
+    height: 2em;
+    width: 2em;
+}
