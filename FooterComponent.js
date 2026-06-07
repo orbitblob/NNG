@@ -22,13 +22,13 @@ class NNGFooter extends HTMLElement {
                         <div class="row">
                             
                             <div class="col-12 col-lg-6 mb-3 mb-lg-0">
-                                <i class="bi bi-envelope"></i> example@domain.com<br>
-                                <i class="bi bi-telephone"></i> (123) 456-7890
+                                <i class="bi bi-envelope"></i> native.nano.gardens@gmail.com<br>
+                                <i class="bi bi-telephone"></i> (773) 803-5555
                             </div>
                             
                             <div class="col-12 col-lg-6">
-                                <i class="bi bi-instagram"></i> @instahandle<br>
-                                <i class="bi bi-facebook"></i> /fbname
+                                <i class="bi bi-instagram"></i> <a href="https://www.instagram.com/native.nano.gardens/">@native.nano.gardens</a><br>
+                                <i class="bi bi-facebook"></i> <a href="https://www.facebook.com/profile.php?id=61584079015119">Native Nano Gardens</a>
                             </div>
                             
                         </div>
