@@ -3,7 +3,7 @@ class NNGFooter extends HTMLElement {
     // This function automatically runs when the element hits the screen
     connectedCallback() {
         this.innerHTML = `
-        <footer class="bg-garden text-white lead py-4 mt-4">
+        <footer class="bg-garden text-white lead py-4 mt-4" id="bottom">
             <div class="container">
                 
                 <div class="row text-center mb-2">
@@ -27,7 +27,7 @@ class NNGFooter extends HTMLElement {
                             </div>
                             
                             <div class="col-12 col-lg-6">
-                                <i class="bi bi-instagram"></i> <a href="https://www.instagram.com/native.nano.gardens/">@native.nano.gardens</a><br>
+                                <i class="bi bi-instagram"></i><a href="https://www.instagram.com/native.nano.gardens/">@native.nano.gardens</a><br>
                                 <i class="bi bi-facebook"></i> <a href="https://www.facebook.com/profile.php?id=61584079015119">Native Nano Gardens</a>
                             </div>
                             
