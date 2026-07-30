@@ -7,7 +7,7 @@ class NNGFooter extends HTMLElement {
             <div class="container">
                 
                 <div class="row text-center mb-2">
-                    <div class="col-12">Let's work together!</div>
+                    <div class="col-12">Let's collaborate!</div>
                 </div>
                 
                 <div class="row justify-content-center mb-2">
